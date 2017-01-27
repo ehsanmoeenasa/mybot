@@ -232,7 +232,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(287315253
+    sudo_users = {110626080,103649648,111020322,0,tonumber(287315253,311680976
 )},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
